@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Comfortaa', cursive;
+    margin: 0;
+    padding: 0;
+
+}
+
+.First-sec {
+    background: linear-gradient(#3204fd00, #000000f1), url(images/donation13.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.Big-font {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 50px;
+    font-size: 70px;
+
+}
+
+.lil-font {
+
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 50px;
+}
+
+.click {
+    background-color: cadetblue;
+    padding: 10px 40px;
+    margin-left: 43%;
+    border: 0px solid black;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+
+.semi-big {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.the-flex {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.lil-box {
+
+    background-color: whitesmoke;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 50px 30px;
+    font-size: 20px;
+}
+
+.amount {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 800px;
+    height: 25px;
+    padding-bottom: 5px;
+    border: none;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.534);
+}
+
+::placeholder {
+    text-align: center;
+    color: rgba(128, 128, 128, 0.336);
+    font-size: 20px;
+}
+
+.cards {
+    background-color: whitesmoke;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 50px 30px;
+}
